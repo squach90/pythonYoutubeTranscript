@@ -25,8 +25,6 @@ pip install youtube-transcript-api
 ```bash
 Enter the YouTube video URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Subtitles saved to 'transcript.txt'
-```
-```
 
 #### Notes
 
